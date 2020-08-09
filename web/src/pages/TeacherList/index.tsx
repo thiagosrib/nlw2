@@ -22,7 +22,7 @@ export default function TeachersList() {
     const response = await api.get('classes', {
       params: { subject, week_day, time },
     });
-    console.log(response.data);
+
     setTeachers(response.data);
   }
 
