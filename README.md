@@ -1,4 +1,4 @@
-# nlw2
+# nlw2 - Proffy
 
 This aplication is made in a Next Level Week #2 by Rocketseat.
 
